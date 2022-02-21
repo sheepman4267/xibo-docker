@@ -10,7 +10,7 @@ configuration, which is used to bootstrap, start, stop and destroy the installat
 ## Installation
 Full installation instructions for supported use of these containers can be
 found in the [Xibo
-Manual](http://xibo.org.uk/manual-tempel/en/install_cms.html)
+Manual](https://xibo.org.uk/docs/setup/cms-installation-guides)
 
 ## Directory structure
 
